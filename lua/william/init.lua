@@ -1,3 +1,3 @@
 require("william.remap")
 require("william.set")
-require("william.packer")
+require("william.lazy")
