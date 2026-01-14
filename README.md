@@ -14,7 +14,7 @@ To get working
 | `<leader>pv` | Normal | Open file explorer (Ex) |
 | `J` | Visual | Move selected text down |
 | `K` | Visual | Move selected text up |
-| `<C-e>` | Normal | Half page jump down (centered) |
+| `<C-e>` | Normal | Page down (centered) |
 | `<C-u>` | Normal | Half page jump up (centered) |
 | `n` | Normal | Next search result (centered) |
 | `N` | Normal | Previous search result (centered) |
